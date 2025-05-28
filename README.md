@@ -13,3 +13,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&locale=en" alt="viltrr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&" alt="viltrr" /></p>
+
+
+<img align="left" alt="Hadhub Github Stats" src="https://github-readme-stats.vercel.app/api?username=hadhub&show_icons=true&theme=dark" />
+
+<a align="right" href="https://github.com/hadhub/github-readme-stats"><img alt="Had Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadhub&langs_count=9&count_private=true&layout=compact&theme=dark" /></a>
