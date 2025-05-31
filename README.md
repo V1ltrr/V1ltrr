@@ -1,4 +1,4 @@
-<h1 align="center">👾 Viltrr — Young Ethical Hacker</h1>
+<h1 align="center">👾 Viltrr — Belgian Ethical Hacker</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
 </p>
@@ -49,17 +49,6 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 📈 WakaTime Stats (Coding Hours)
-
-> *Connect your GitHub with [WakaTime](https://wakatime.com/) to activate this section.*
-
-```text
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-```
-
----
-
 ### 🧪 Projects & Challenges
 
 | Project                     | Description                                                   | Status        |
@@ -87,7 +76,7 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
   <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:noanhenrypro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/Viltrr" target="_blank">
