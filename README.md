@@ -92,10 +92,11 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🌍 D'où viennent mes visiteurs ?
+### 💻 Mon environnement de travail (Matrix Style)
 
-![Visitor Map](https://visitcount.itsvg.in/api?id=viltrr&icon=0&color=6)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500" alt="terminal hacker gif">
+</p>
 
 ---
 
