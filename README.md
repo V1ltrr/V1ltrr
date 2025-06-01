@@ -49,9 +49,11 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-%2300FF00?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000?style=for-the-badge&logo=hackthebox&logoColor=green)
+<h3 align="center">🔐 Terminal d'infiltration</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Initialisation+de+l'analyse...;Connexion+au+port+443+...;Analyse+des+paquets+en+cours...;Système+infiltré+avec+succès" alt="typing animation" />
+</p>
 
 ---
 
