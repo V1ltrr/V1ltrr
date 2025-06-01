@@ -92,10 +92,10 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 💬 Quote of the Day
+### 🌍 D'où viennent mes visiteurs ?
 
-> “Hackers are the immune system of the internet.”  
-> — *Jeff Moss, founder of DEF CON*
+![Visitor Map](https://visitcount.itsvg.in/api?id=viltrr&icon=0&color=6)
+
 
 ---
 
