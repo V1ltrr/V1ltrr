@@ -39,7 +39,7 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=github&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=github" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=github" width="50%" />
@@ -51,7 +51,7 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 
 ### My GitHub activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=github)
 
 ---
 
