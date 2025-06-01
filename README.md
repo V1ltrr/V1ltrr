@@ -1,6 +1,6 @@
 <h1 align="center">Viltrr — Ethical Hacker Student</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 ```bash
 > whoami
-student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
+student@viltrr:~$ A 16yo cybersec-student from Belgium.
 ```
 
 - 🧑‍💻 Training in ethical hacking with Kali Linux, Python & C  
@@ -26,13 +26,11 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" />
 </p>
 
 ---
