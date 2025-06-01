@@ -92,11 +92,11 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 💻 Mon environnement de travail (Matrix Style)
+### 📛 Badges
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500" alt="terminal hacker gif">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=viltrr&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/viltrr?style=social)
 
 ---
 
