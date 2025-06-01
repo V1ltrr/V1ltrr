@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Viltrr — Future Ethical Hacker</h1>
+<h1 align="center">Viltrr — Ethical Hacker Student</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
 </p>
