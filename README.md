@@ -49,11 +49,9 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-<h3 align="center">🔐 Terminal d'infiltration</h3>
+### 🔥 Mon activité GitHub
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Initialisation+de+l'analyse...;Connexion+au+port+443+...;Analyse+des+paquets+en+cours...;Système+infiltré+avec+succès" alt="typing animation" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=dracula)
 
 ---
 
