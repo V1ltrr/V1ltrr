@@ -46,7 +46,9 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=tokyonight" width="50%" />
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=viltrr&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/viltrr?style=social)
 ---
 
 ### 🔥 Mon activité GitHub
@@ -89,16 +91,3 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
 </p>
-
----
-
-### 📛 Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=viltrr&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/viltrr?style=social)
-
----
-
-<!-- GitHub Snake Workflow Reminder -->
-<!-- 🐍 This animation requires GitHub Actions in a `.github/workflows/snake.yml` file -->
