@@ -1,11 +1,11 @@
 <h1 align="center">Viltrr — Ethical Hacker Student</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```bash
 > whoami
@@ -21,7 +21,7 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
@@ -37,7 +37,7 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=tokyonight&hide=stars" width="48%" />
@@ -52,13 +52,13 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 ![Stars](https://img.shields.io/github/stars/viltrr?style=social)
 ---
 
-### 🔥 Mon activité GitHub
+### My GitHub activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=dracula)
 
 ---
 
-### 🧪 Projects & Challenges
+### Projects & challenges
 
 | Project                     | Description                                                   | Status        |
 |----------------------------|---------------------------------------------------------------|---------------|
@@ -69,7 +69,7 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🎯 Cyber Certifications (Planned)
+### Certifications (Planned)
 
 - [ ] TryHackMe: Offensive Pentesting  
 - [ ] PNPT — Practical Network Penetration Tester  
@@ -79,7 +79,7 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
