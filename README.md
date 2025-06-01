@@ -42,10 +42,9 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=tokyonight" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=github" width="50%" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=viltrr&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/viltrr?style=social)
 ---
