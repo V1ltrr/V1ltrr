@@ -49,9 +49,9 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="matrix code animation">
-</p>
+![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-%2300FF00?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ---
 
