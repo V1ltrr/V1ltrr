@@ -38,11 +38,11 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=dark&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=gruvbox&hide=stars" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=gruvbox" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=gruvbox" width="50%" />
 </p>
 
 ![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
