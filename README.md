@@ -1,6 +1,6 @@
 <h1 align="center">Viltrr — Ethical Hacker Student</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=2000&center=true&vCenter=true&width=435&color=%23cccccc&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=1500&center=true&vCenter=true&width=435&color=%23cccccc&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
 </p>
 
 ---
