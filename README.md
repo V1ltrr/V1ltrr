@@ -1,4 +1,4 @@
-<h1 align="center">👾 Viltrr — Belgian Ethical Hacker</h1>
+<h1 align="center">🛡️ Viltrr — Future Ethical Hacker</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
 </p>
@@ -49,6 +49,14 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
+### 🐍 GitHub Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viltrr/viltrr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🧪 Projects & Challenges
 
 | Project                     | Description                                                   | Status        |
@@ -60,23 +68,23 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🧠 Cyber Certifications (Planned)
+### 🎯 Cyber Certifications (Planned)
 
-- [ ] 🧪 TryHackMe Offensive Pentesting  
-- [ ] 🧪 TryHackMe Pre-Security & Cyber Defense  
-- [ ] 🧪 PNPT — Practical Network Penetration Tester  
-- [ ] 🧪 OSCP — Offensive Security Certified Professional  
-- [ ] 🧪 HTB Certifications (Junior/Senior)  
+- [ ] TryHackMe: Offensive Pentesting  
+- [ ] PNPT — Practical Network Penetration Tester  
+- [ ] OSCP — Offensive Security Certified Professional  
+- [ ] HTB: Junior Penetration Tester  
+- [ ] TryHackMe: Cyber Defense Path  
 
 ---
 
-### 📡 Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:noanhenrypro@gmail.com" target="_blank">
+  <a href="mailto:your@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/Viltrr" target="_blank">
@@ -86,9 +94,12 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🧠 Quote of the Day
+### 💬 Quote of the Day
 
-> “The quieter you become, the more you are able to hear.”  
-> — *Ram Dass*
+> “Hackers are the immune system of the internet.”  
+> — *Jeff Moss, founder of DEF CON*
 
 ---
+
+<!-- GitHub Snake Workflow Reminder -->
+<!-- 🐍 This animation requires GitHub Actions in a `.github/workflows/snake.yml` file -->
