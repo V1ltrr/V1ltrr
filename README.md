@@ -49,13 +49,9 @@ student@viltrr:~$ A 16yo cyber-enthusiast from Belgium.
 
 ---
 
-### 🐍 GitHub Contribution Snake (Animated)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viltrr/viltrr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="matrix code animation">
 </p>
-
-<img src="https://raw.githubusercontent.com/viltrr/viltrr/output/github-contribution-grid-snake.svg" />
 
 ---
 
