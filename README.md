@@ -6,6 +6,9 @@
 ---
 
 ### About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9ECBFF&center=true&vCenter=true&width=600&lines=%3E+whoami;student@viltrr%3A~%24+A+16yo+cybersec-student+from+Belgium." alt="Typing SVG" />
+</p>
 
 ```bash
 > whoami
