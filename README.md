@@ -38,7 +38,7 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=tokyonight&hide=stars" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=github&hide=stars" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=tokyonight" width="48%" />
 </p>
 <p align="center">
