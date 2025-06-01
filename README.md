@@ -1,6 +1,6 @@
 <h1 align="center">Viltrr — Ethical Hacker Student</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=1500&center=true&vCenter=true&width=435&color=%23cccccc&lines=🔐+Student+in+Cybersecurity;💻+Passionate+about+ethical+hacking;🚀+Building+skills+on+Kali+Linux;🌍+Based+in+Belgium" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=1500&center=true&vCenter=true&width=435&color=%23cccccc&lines=Student+in+Cybersecurity;Passionate+about+ethical+hacking;Building+skills+on+Kali+Linux;Based+in+Belgium" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=dark" width="48%" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=dark" width="50%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="40" />
 </p>
 
 </div>
