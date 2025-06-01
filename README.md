@@ -62,7 +62,7 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 |----------------------------|---------------------------------------------------------------|---------------|
 | 🔍 **ReconBot**            | Automates recon with Python (whois, DNS, subdomains...)       | 🛠️ In progress |
 | 📡 **AI/Cyber News Bot**   | Discord bot fetching AI & cybersecurity news                  | ✅ Beta        |
-| 📕 **OSIRIS (novel)**      | Post-apocalyptic book about isolated kids after a virus       | ✍️ Writing     |
+| 📕 **OSIRIS (novel)**      | Post-apocalyptic book                                         | ✍️ Writing     |
 | 🎓 **TryHackMe Progress**  | Path: Complete Beginner → Offensive Pentesting                | 🧠 Ongoing     |
 
 ---
@@ -83,7 +83,7 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
   <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:noanhenrypro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/Viltrr" target="_blank">
