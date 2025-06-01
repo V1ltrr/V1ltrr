@@ -53,6 +53,18 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=github)
 
+<div align="center" style="background-color: rgb(48,52,52); color: rgba(158,203,255,1); padding: 10px; border-radius: 10px;">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=dark&hide=stars" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=dark" width="48%" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=dark" width="50%" />
+</p>
+
+</div>
+
 ---
 
 ### Projects & challenges
