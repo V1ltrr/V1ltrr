@@ -44,7 +44,9 @@ student@viltrr:~$ A 16yo cybersec-student from Belgium.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=tokyonight" width="50%" />
 </p>
+
 https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=github
+
 ![Profile Views](https://komarev.com/ghpvc/?username=viltrr&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/viltrr?style=social)
