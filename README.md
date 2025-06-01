@@ -7,8 +7,9 @@
 
 ### About Me
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9ECBFF&center=true&vCenter=true&width=600&lines=%3E+whoami;student@viltrr%3A~%24+A+16yo+cybersec-student+from+Belgium." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=9ECBFF&center=true&vCenter=true&width=700&lines=%3E+whoami;student@viltrr%3A~%24+A+16yo+cybersec-student+from+Belgium.;%3E+pwd;/home/viltrr;%3E+uname+-a;Linux+kali+6.5.0-kali1-amd64" alt="terminal animation" />
 </p>
+
 
 ```bash
 > whoami
