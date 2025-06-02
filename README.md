@@ -9,7 +9,7 @@
 
 ```bash
 > whoami
-student@viltrr:~$ A 16yo cybersec-student from Belgium.
+@viltrr:~$ A 16yo cybersec-student from Belgium
 ```
 
 - 🧑‍💻 Training in ethical hacking with Kali Linux, Python & C  
