@@ -73,8 +73,6 @@
 
 ### Certifications (Planned)
 
-- [ ] TryHackMe: Offensive Pentesting  
-- [ ] PNPT — Practical Network Penetration Tester  
 - [ ] OSCP — Offensive Security Certified Professional  
 - [ ] HTB: Junior Penetration Tester  
 - [ ] TryHackMe: Cyber Defense Path  
