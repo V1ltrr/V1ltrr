@@ -71,9 +71,9 @@
 
 ---
 
-### Certifications (Planned)
+### Certifications 
 
-- [ ] OSCP — Offensive Security Certified Professional  
+- [ ] nothing yet...  
 
 ---
 
