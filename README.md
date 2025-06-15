@@ -64,7 +64,7 @@
 
 | Project                     | Description                                                   | Status        |
 |----------------------------|---------------------------------------------------------------|---------------|
-| **SaaS**      | Secret first SaaS project                                        |     Scipting     |
+| **SaaS**      | First secret SaaS project                                        |     Scipting     |
 | **TryHackMe Progress**  | Path: Complete Beginner → Offensive Pentesting                |     Ongoing     |
 
 ---
