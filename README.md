@@ -64,10 +64,8 @@
 
 | Project                     | Description                                                   | Status        |
 |----------------------------|---------------------------------------------------------------|---------------|
-| 🔍 **ReconBot**            | Automates recon with Python (whois, DNS, subdomains...)       | 🛠️ In progress |
-| 📡 **AI/Cyber News Bot**   | Discord bot fetching AI & cybersecurity news                  | ✅ Beta        |
-| 📕 **OSIRIS (novel)**      | Post-apocalyptic book                                         | ✍️ Writing     |
-| 🎓 **TryHackMe Progress**  | Path: Complete Beginner → Offensive Pentesting                | 🧠 Ongoing     |
+| **SaaS**      | Secret first SaaS project                                        |     Scipting     |
+| **TryHackMe Progress**  | Path: Complete Beginner → Offensive Pentesting                |     Ongoing     |
 
 ---
 
