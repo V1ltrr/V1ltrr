@@ -11,12 +11,10 @@
 @viltrr:~$ A 16yo cybersec-student from Belgium
 ```
 
-- 🧑‍💻 Training in ethical hacking with Kali Linux, Python & C  
-- 🎯 Practicing CTFs, reconnaissance, exploits, web vulns  
-- 🔍 Deeply interested in cybersecurity and bug bounty  
-- 📚 Learning reverse engineering & malware analysis  
-- 🧠 Future goals: TryHackMe Elite, OSCP, real-world pentesting  
-- 🛡️ Founder of a cyber Discord community with XP-based ranks  
+- Training in ethical hacking with Kali Linux, Python & C  
+- Deeply interested in cybersecurity and bug bounty  
+- Founder of a cyber Discord community with XP-based ranks (link here)
+- Interested in developing a SaaS
 
 ---
 
@@ -42,9 +40,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=dark&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viltrr&theme=dark" width="48%" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=dark" width="50%" />
 </p>
 
