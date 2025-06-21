@@ -61,6 +61,7 @@
 |----------------------------|---------------------------------------------------------------|---------------|
 | **SaaS**      | First secret SaaS project                                        |     Scipting     |
 | **TryHackMe Progress**  | Path: Complete Beginner → Offensive Pentesting                |     Ongoing     |
+| **French ethical hacking community**  | My own community that connects cybersecurity passionate                |     Building     |
 
 ---
 
