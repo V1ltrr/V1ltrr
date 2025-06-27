@@ -39,19 +39,19 @@
 <div align="center" style="background-color: rgb(70,75,75); color: rgba(158,203,255,1); padding: 10px; border-radius: 10px;">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=viltrr&show_icons=true&theme=dark&hide=stars" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viltrr&layout=compact&theme=dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v1ltrr&show_icons=true&theme=dark&hide=stars" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ltrr&layout=compact&theme=dark" width="50%" />
 </p>
 
 </div>
 
-![Followers](https://img.shields.io/github/followers/viltrr?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/viltrr?style=social)
+![Followers](https://img.shields.io/github/followers/v1ltrr?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/v1ltrr?style=social)
 ---
 
 ### My GitHub activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viltrr&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v1ltrr&theme=github)
 
 ---
 
