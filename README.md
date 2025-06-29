@@ -62,7 +62,6 @@
 | **SaaS**      | First secret SaaS project                                        |     Scipting     |
 | **Url-Breaker**      | [More details here](https://github.com/V1ltrr/Url-Breaker)                                        |     Published     |
 | **My own TryHackMe room**  | [Click to see the course](https://tryhackme.com/room/first_steps_in_cybersecutity)               |     Published     |
-| **French ethical hacking community**  | My own community that connects cybersecurity passionate                |     Building     |
 
 ---
 
