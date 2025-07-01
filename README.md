@@ -67,7 +67,7 @@
 
 ### Certifications 
 
-- [ ] nothing yet...  
+- [ ] nothing here yet...  
 
 ---
 
