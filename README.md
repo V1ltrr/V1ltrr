@@ -76,7 +76,7 @@
 <p align="left">
   <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://tryhackme.com/p/Viltrr" target="_blank">
+  <a href="https://tryhackme.com/p/V1ltrr" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
 </p>
