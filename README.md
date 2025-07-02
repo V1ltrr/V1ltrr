@@ -61,6 +61,7 @@
 |----------------------------|---------------------------------------------------------------|---------------|
 | **SaaS**      | First secret SaaS project                                        |     Scipting     |
 | **Url-Breaker**      | [More details here](https://github.com/V1ltrr/Url-Breaker)                                        |     Published     |
+| **New Craking Tool**      | nothing here yet                                        |     Building...     |
 | **My own TryHackMe room**  | [Click to see the course](https://tryhackme.com/room/first_steps_in_cybersecutity)               |     Published     |
 
 ---
