@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://github.com/V1ltrr">
     <img src="https://skillicons.dev/icons?i=git,blender,codepen,discord,figma,firebase,github,kali,notion,obsidian,powershell,vscode"/>
+    ------------------------------------------------------------------------------
     <img src="https://skillicons.dev/icons?i=c,css,html,linux,powershell,py"/>
   </a>
 </p>
