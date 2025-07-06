@@ -8,7 +8,6 @@
 
 - Training in ethical hacking with Kali Linux, Python & C  
 - Deeply interested in cybersecurity and bug bounty  
-- Founder of a cyber Discord community with XP-based ranks (link here)
 - Interested in developing a SaaS
 
 ---
