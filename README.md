@@ -26,6 +26,12 @@
   </span>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,blender,codepen,c,css,discord,figma,firebase,git,github,html,kali,linux,notion,obsidian,powershell,py,vscode," />
+  </a>
+</p>
+
 ---
 
 ### GitHub Stats
