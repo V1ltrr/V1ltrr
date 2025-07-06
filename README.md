@@ -6,11 +6,6 @@
 
 ### About Me
 
-```bash
-> whoami
-@viltrr:~$ A 16yo cybersec-student from Belgium
-```
-
 - Training in ethical hacking with Kali Linux, Python & C  
 - Deeply interested in cybersecurity and bug bounty  
 - Founder of a cyber Discord community with XP-based ranks (link here)
