@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/V1ltrr#languages--tools">
-    <img src="https://skillicons.dev/icons?i=git,blender,codepen,discord,figma,firebase,github,kali,notion,obsidian,powershell,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,blender,codepen,discord,figma,firebase,github,kali,notion,obsidian,powershell,vscode,windows"/>
   </a>
 </p>
 
