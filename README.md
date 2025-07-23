@@ -12,8 +12,8 @@
 
 <p align="center">
   <img alt="followers" src="https://img.shields.io/github/followers/v1ltrr?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/v1ltrr?label=Stars" alt="stars">
   <img src="https://komarev.com/ghpvc/?username=v1ltrr&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/github/stars/v1ltrr?label=Stars" alt="stars">
 </p>
 
 <a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
