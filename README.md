@@ -16,11 +16,6 @@
   <img src="https://img.shields.io/github/stars/v1ltrr?label=Stars" alt="stars">
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/noan-henry/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/noan_henry/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
 ---
 
 ### Languages & Tools
