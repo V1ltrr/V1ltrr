@@ -10,12 +10,6 @@
 - Deeply interested in cybersecurity and bug bounty  
 - Interested in developing a SaaS
 
-<p align="center">
-  <img alt="followers" src="https://img.shields.io/github/followers/v1ltrr?label=Followers&style=social">
-  <img src="https://komarev.com/ghpvc/?username=v1ltrr&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/github/stars/v1ltrr?label=Stars" alt="stars">
-</p>
-
 ---
 
 ### Languages & Tools
