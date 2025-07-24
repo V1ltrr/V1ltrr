@@ -69,7 +69,7 @@
 ### Connect with Me
 
 <p align="left">
-  <a href="https://discordapp.com/users/990508915236167702" target="_blank">
+  <a href="https://www.discord.com/users/990508915236167702" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <a href="https://tryhackme.com/p/V1ltrr" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
