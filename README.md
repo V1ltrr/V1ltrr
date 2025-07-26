@@ -34,7 +34,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=V1ltrr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="43%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1ltrr&theme=vue-dark&hide_border=true" width="45.7%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1ltrr&theme=vue-dark&hide_border=true" width="45.6%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ltrr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="43%" />
 </p>
 
