@@ -42,6 +42,7 @@
 
 ![Followers](https://img.shields.io/github/followers/v1ltrr?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/v1ltrr?style=social)
+![Website](https://v1ltrr.github.io/noan-henry.be/)
 ---
 
 ### My GitHub activity
