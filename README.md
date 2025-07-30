@@ -55,7 +55,7 @@
 
 | Project                     | Description                                                   | Status        |
 |----------------------------|---------------------------------------------------------------|---------------|
-| **SaaS**      | First secret SaaS project                                        |     Thinking about an idea...     |
+| **SaaS**      | SaaS project                                        |     Thinking about an idea...     |
 | **Url-Breaker**      | [More details here](https://github.com/V1ltrr/Url-Breaker)                                        |     Published     |
 | **Metadata-Exposed**      | [More details here](https://github.com/V1ltrr/Metadata-Exposed)                                        |     Published     |
 | **My own TryHackMe room**  | [Click to see the course](https://tryhackme.com/room/first_steps_in_cybersecutity)               |     Submitted to THM staff     |
