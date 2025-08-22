@@ -7,7 +7,6 @@
 ### About Me
 
 - Training in ethical hacking with Kali Linux, Python & C  
-- Deeply interested in cybersecurity and bug bounty  
 - Interested in developing a SaaS
 
 ---
