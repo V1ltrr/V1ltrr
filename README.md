@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=1500&center=true&vCenter=true&width=435&color=%23cccccc&lines=Student+in+Cybersecurity;Passionate+about+ethical+hacking;Building+skills;Based+in+Belgium" alt="Typing SVG" />
 </p>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3073694" style='border:none;'></iframe>
 
 ### About Me
 
