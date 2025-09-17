@@ -42,7 +42,7 @@
 
 ---
 
-### My GitHub activity
+### GitHub activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v1ltrr&theme=vue&hide_border=true)
 
